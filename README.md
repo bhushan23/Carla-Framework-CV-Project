@@ -4,8 +4,8 @@
 
 ### For running project
 
-1. Download PythonClient folder from : 
-2. Download Carla 0.8.2 from here: 
+1. Download our implementation of ***"PythonClient"*** folder from : https://drive.google.com/open?id=1Pe8l_jsORspTHt27FmMGVmct6mbQMIej
+2. Download ***Carla 0.8.2*** from here: https://github.com/carla-simulator/carla/releases
 3. Replace PythonClient from Carla with our PythonClient (from drive)
 
 
